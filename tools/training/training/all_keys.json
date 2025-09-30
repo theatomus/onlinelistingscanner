@@ -1,0 +1,16 @@
+{
+  "title": [
+    "title_cpu_speed_key",
+    "title_lot_key"
+  ],
+  "metadata": [],
+  "specifics": [],
+  "category": [
+    "category_path_key",
+    "leaf_category_key"
+  ],
+  "table_shared": [
+    "table_entry_count_key"
+  ],
+  "description": []
+}

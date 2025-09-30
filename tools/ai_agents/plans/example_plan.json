@@ -1,0 +1,22 @@
+{
+  "steps": [
+    {
+      "agent": "file_edit",
+      "root": ".",
+      "include": ["**/*.py"],
+      "pattern": "TODO:",
+      "replacement": "NOTE:",
+      "regex": false,
+      "dry_run": true
+    },
+    {
+      "agent": "folder",
+      "root": ".",
+      "include": ["logs/**/*.txt"],
+      "move": "backups/logs",
+      "dry_run": true
+    }
+  ]
+}
+
+

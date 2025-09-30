@@ -1,0 +1,10 @@
+{
+  "allowed_keys": {
+    "title": [],
+    "specifics": [],
+    "metadata": [],
+    "description": [],
+    "table_shared": [],
+    "table_entry_union": []
+  }
+}
