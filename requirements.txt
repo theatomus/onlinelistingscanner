@@ -1,0 +1,23 @@
+pyperclip
+tkhtmlview
+matplotlib
+setuptools
+keyboard
+ttkbootstrap
+tkinterdnd2
+pywin32
+requests>=2.25.1
+Pillow>=9.0.0
+opencv-python
+pytesseract
+pyautogui
+imutils
+pygame
+pyarmor
+bs4
+cython
+cryptography
+psutil>=5.9.0
+# Added for zscrape/training dependencies
+pyparsing
+PyYAML

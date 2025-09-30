@@ -1,0 +1,12 @@
+^PC iMac
+GeForce
+i3
+i5
+i7
+i9
+iMac
+iPhone
+iPad
+Elite
+HP
+Air

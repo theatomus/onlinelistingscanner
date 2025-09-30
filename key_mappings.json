@@ -1,0 +1,16 @@
+{
+    "mappings": [
+        {
+            "section1": "table",
+            "key1": "os_key",
+            "section2": "title",
+            "key2": "os_status_key"
+        },
+        {
+            "section1": "specifics",
+            "key1": "maximum_resolution_key",
+            "section2": "table",
+            "key2": "screen_resolution_key"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+  "mappings": [
+    {
+      "section1": "specifics",
+      "key1": "maximum_resolution_key",
+      "section2": "table",
+      "key2": "screen_resolution_key"
+    }
+  ]
+}

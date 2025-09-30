@@ -1,0 +1,5 @@
+Store Category Here In This Format:
+ - eBay Category Leaf Here
+
+Another Category For Your Store:
+ - Category Leaf here.
